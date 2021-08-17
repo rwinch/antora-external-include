@@ -1,0 +1,17 @@
+This is the index and it tries to include content:
+
+[source,java]
+----
+include::example$ThisWorks.java[]
+----
+
+
+[source,java]
+----
+include::example$FromPipelineExtension[]
+----
+
+[source,java]
+----
+include::.../../../Sample.java[]
+----
