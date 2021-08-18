@@ -8,10 +8,10 @@ include::example$ThisWorks.java[]
 
 [source,java]
 ----
-include::example$FromPipelineExtension[]
+// include::example$FromPipelineExtension[]
 ----
 
 [source,java]
 ----
-include::.../../../Sample.java[]
+//include::.../../../Sample.java[]
 ----
